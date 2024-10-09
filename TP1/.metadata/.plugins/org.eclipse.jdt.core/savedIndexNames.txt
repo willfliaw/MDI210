@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\willf\OneDrive\Telecom\2023-2024\MDI210\TP\TP1\.metadata\.plugins\org.eclipse.jdt.core
+1367029276.index
+1865797976.index
+4104495444.index
