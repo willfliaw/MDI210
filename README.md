@@ -36,15 +36,12 @@ For practical exercises in this course, we will use Java and the Eclipse IDE. Yo
 
 1. Install Java Development Kit (JDK):
    Download and install the JDK from [Oracle's official site](https://www.oracle.com/java/technologies/javase-downloads.html).
-
 2. Install Eclipse IDE:
    Download and install Eclipse IDE for Java Developers from [Eclipse's official site](https://www.eclipse.org/downloads/).
-
 3. Set up your Eclipse Workspace:
    - Open Eclipse and select a workspace folder.
    - Create a new Java project: `File > New > Java Project`.
    - Add your source files and begin coding.
-
 4. Run Java Programs in Eclipse:
    - To run your program, right-click the source file in the Project Explorer and select `Run As > Java Application`.
 
